@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Supermarket</string>
+    <string name="auth">Авторизация</string>
+    <string name="password">Пароль</string>
+    <string name="in">Войти</string>
+    <string name="reg">Регистрация</string>
+    <string name="regist">Создать карту</string>
+    <string name="back">Назад</string>
+    <string name="name">Имя</string>
+    <string name="lastname">Фамилия</string>
+    <string name="phone">Телефон</string>
+    <string name="findPrice">Узнать цену товара 🔎</string>
+    <string name="nameShop">пятьдесят\nчетверочка</string>
+    <string name="yourCard">Карта постоянного покупателя</string>
+
+</resources>
